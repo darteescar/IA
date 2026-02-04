@@ -1,5 +1,5 @@
 # IA (Inteligência Artificial) (Português)
-Sistema de gestão de uma frota de táxis usando diferentes algoritmos de procura em simulações dinâmicas. Para obter informação mais detalhada é possível consultar o respetivo [enunciado](EnunciadoTPIA_PT.pdf) e [relatório](Relatorio.pdf)
+Sistema de gestão de uma frota de táxis usando diferentes algoritmos de procura em simulações dinâmicas. Para obter informação mais detalhada é possível consultar o respetivo [enunciado](EnunciadoTPIA_PT.pdf) e [relatório](Relatorio.pdf).
 
 ## Membros do grupo:
 - [Duarte Escairo Brandão Reis Silva](https://github.com/darteescar) (A106936)

@@ -1,6 +1,8 @@
 # IA (Inteligência Artificial) (Português)
 Sistema de gestão de uma frota de táxis usando diferentes algoritmos de procura em simulações dinâmicas. Para obter informação mais detalhada é possível consultar o respetivo [enunciado](EnunciadoTPIA_PT.pdf) e [relatório](Relatorio.pdf).
 
+### Nota Final: 16 / 20 ⭐️
+
 ## Membros do grupo:
 - [Duarte Escairo Brandão Reis Silva](https://github.com/darteescar) (A106936)
 - [Luís António Peixoto Soares](https://github.com/luis7788) (A106932)
@@ -18,6 +20,8 @@ $ python3 main.py
 
 # IA (Artificial Intelligence) (English)
 Fleet management system for taxis using different search algorithms in dynamic simulations. For more detailed information, you can consult the respective [statement](EnunciadoTPIA_EN.pdf) and [report](Relatorio_EN.pdf).
+
+### Nota Final: 16 / 20 ⭐️
 
 ## Group Members:
 - [Duarte Escairo Brandão Reis Silva](https://github.com/darteescar) (A106936)
